@@ -1,0 +1,15 @@
+{
+    "name": "devNetTest",
+    "symbol": "HRFX",
+    "description": "DVT",
+    "image": "",
+    "website": "",
+    "tags": [
+        "utility-token",
+        "community-token",
+        "meme-token"
+      ],
+    "extensions": {
+        "website": ""
+      }
+}
